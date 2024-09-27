@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+databases[postgresql]
+jinja2
+passlib[bycript]
+psycopg2
